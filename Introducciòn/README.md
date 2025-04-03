@@ -1,1 +1,0 @@
-Carpeta Introducción del repositorio
